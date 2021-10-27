@@ -1,17 +1,15 @@
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ProjetoPato
+using ProjetoPato.interfaces;
+
+namespace ProjetoPato.classes
 {
     public class Apito : Padrao_Grasnar
     {
-        public string Grasnar()
-	{		
-		return "Queeeeee";
-	}
-
+        public String grasnar() { return "Queeeeee"; }
     }
 }

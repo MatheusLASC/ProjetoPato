@@ -4,11 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ProjetoPato
+namespace ProjetoPato.interfaces
 {
-   public interface Padrao_Voaveis
+    public interface Padrao_Grasnar
     {
-        string Voar();
-        double getVelocidade();
+        String grasnar();
     }
 }

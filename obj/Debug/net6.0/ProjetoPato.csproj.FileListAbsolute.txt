@@ -1,0 +1,16 @@
+D:\Git\ProjetoPato\obj\Debug\net6.0\ProjetoPato.GlobalUsings.g.cs
+D:\Git\ProjetoPato\obj\Debug\net6.0\ProjetoPato.csproj.AssemblyReference.cache
+D:\Git\ProjetoPato\obj\Debug\net6.0\ProjetoPato.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git\ProjetoPato\obj\Debug\net6.0\ProjetoPato.AssemblyInfoInputs.cache
+D:\Git\ProjetoPato\obj\Debug\net6.0\ProjetoPato.AssemblyInfo.cs
+D:\Git\ProjetoPato\obj\Debug\net6.0\ProjetoPato.csproj.CoreCompileInputs.cache
+D:\Git\ProjetoPato\bin\Debug\net6.0\ProjetoPato.exe
+D:\Git\ProjetoPato\bin\Debug\net6.0\ProjetoPato.deps.json
+D:\Git\ProjetoPato\bin\Debug\net6.0\ProjetoPato.runtimeconfig.json
+D:\Git\ProjetoPato\bin\Debug\net6.0\ProjetoPato.dll
+D:\Git\ProjetoPato\bin\Debug\net6.0\ref\ProjetoPato.dll
+D:\Git\ProjetoPato\bin\Debug\net6.0\ProjetoPato.pdb
+D:\Git\ProjetoPato\obj\Debug\net6.0\ProjetoPato.dll
+D:\Git\ProjetoPato\obj\Debug\net6.0\ref\ProjetoPato.dll
+D:\Git\ProjetoPato\obj\Debug\net6.0\ProjetoPato.pdb
+D:\Git\ProjetoPato\obj\Debug\net6.0\ProjetoPato.genruntimeconfig.cache
